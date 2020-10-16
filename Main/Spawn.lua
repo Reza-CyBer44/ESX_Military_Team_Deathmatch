@@ -2420,9 +2420,8 @@ if Config.RestrictVehicle then
        end
 	   
    elseif vehicle ~= 0 then
-       ESX.ShowNotification('~y~ UNKNOWN VEHICLE',false,true,120)	     
-       TaskLeaveVehicle(ped,vehicle,0)
-	   DeleteEntity(vehicle)
+
+					
    end
 
 
