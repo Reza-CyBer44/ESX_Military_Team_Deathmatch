@@ -1,12 +1,10 @@
 
 INSERT INTO `jobs` (`name`, `label`) VALUES
 ('russia', 'Russia'),
-('unemployed', 'Unemployed'),
 ('usa', 'United State America');
 
 
 INSERT INTO `job_grades` (`id`, `job_name`, `grade`, `name`, `label`, `salary`, `skin_male`, `skin_female`) VALUES
-(1, 'unemployed', 0, 'unemployed', 'Unemployed', 200, '{}', '{}'),
 (2, 'russia', 0, 'unselected', 'Select Your Division', 0, '{}', '{}'),
 (3, 'russia', 1, 'comrifle', 'Rifle Commando', 0, '{}', '{}'),
 (4, 'russia', 2, 'comartil', 'Artillery Commando', 0, '{}', '{}'),
