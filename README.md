@@ -2,4 +2,4 @@
 Fivem Team Death Match gamemode In ESX Framework. (Currently in Beta)
 Check Fivem Post For Full Description :
 
-# Join My Discord : https://discord.gg/BsbuFB8Bss
+# Cyber Developments : https://discord.gg/6d5Q5RMWt7
